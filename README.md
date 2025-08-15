@@ -53,7 +53,7 @@ Hi, I’m **Riyaz** — an **AWS Certified Solutions Architect – Associate** w
 [![](https://visitcount.itsvg.in/api?id=rbasha786&icon=0&color=0)](https://visitcount.itsvg.in)  
 
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/rbasha786/YOUR_USERNAME/blob/output/github-snake-dark.svg)
 
 
 
