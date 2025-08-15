@@ -1,5 +1,4 @@
-<!-- Dynamic Header Banner -->
-[![Riyaz's GitHub Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,100:FF5733&height=200&section=header&text=Riyaz%20Basha%20|%20AWS%20Solutions%20Architect%20 - Associate&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35)](https://github.com/rbasha786)
+![Riyaz's GitHub Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,100:FF5733&height=200&section=header&text=Riyaz%20Basha%20%7C%20AWS%20Solutions%20Architect%20-%20Associate&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 # 👋 About Me  
 
