@@ -9,7 +9,7 @@ Hi, I’m **Riyaz** — an **AWS Certified Solutions Architect – Associate** w
 - 🖥️ Skilled in **Linux system administration** (RHEL & Ubuntu).  
 - 🔧 Proficient in **Cloud Engineering**, **Production Support**, **Application Support**, and **Build & Release** roles.
 - 📚 Additional skills: **ERP**, **SAP** (HCM & SuccessFactors), and **Python basics**.
-- 💼 Over 10 years’ previous experience with CGG Gulf (Saudi, Dubai & Qatar) in Human Resources (HR), Recruitment, Talent Acquisition & Management.
+- 💼 Over **10 years of experience** with CGG Gulf across **Saudi Arabia, Dubai, and Qatar** in **Human Resources (HR)**, **Recruitment**, T**alent Acquisition**, and **Management**.
 - 🎓 Master of Computer Applications (**MCA**) from *Jawaharlal Nehru Technological University* (JNTU), Hyderabad, India.  
 
 🌱 **Always learning, always building.**  
