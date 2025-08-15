@@ -7,7 +7,7 @@ Hi, I’m **Riyaz** — an **AWS Certified Solutions Architect – Associate** w
 - 💼 Currently working as **IT Trainer & IT Support Specialist** at *King Saud University*, Riyadh, Saudi Arabia.  
 - ☁️ ~3 years of hands-on experience in **AWS DevOps Engineering**.  
 - 🖥️ Skilled in **Linux system administration** (RHEL & Ubuntu).  
-- 🔧 Capable of taking on roles such as **Production Support Engineer**, **Application Support Engineer**, and **Build & Release Engineer**.  
+- 🔧 Proficient in **Cloud Engineering**, **Production Support**, **Application Support**, and **Build & Release** roles.
 - 📚 Additional skills: **ERP**, **SAP** (HCM & SuccessFactors), and **Python basics**.
 - 💼 Over 10 years’ previous experience with CGG Gulf (Saudi, Dubai & Qatar) in Human Resources (HR), Recruitment, Talent Acquisition & Management.
 - 🎓 Master of Computer Applications (**MCA**) from *Jawaharlal Nehru Technological University* (JNTU), Hyderabad, India.  
